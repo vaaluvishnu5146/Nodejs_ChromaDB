@@ -1,0 +1,2 @@
+Step1: npm install chromadb @chroma-core/default-embed
+Step2: npx chroma run --path ./getting-started
