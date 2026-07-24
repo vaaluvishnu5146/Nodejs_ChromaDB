@@ -1,3 +1,2 @@
-Step1: Install DockerDesktop and Pull "chromadb/chroma" image and run the script "docker run -p 8000:8000 chromadb/chroma"
-Step2: npm install chromadb @chroma-core/default-embed
-Step3: npx chroma run --path ./getting-started
+Step1: npm install chromadb @chroma-core/default-embed
+Step2: npx chroma run --path ./getting-started
